@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Emmanuel/AndroidStudioProjects/LoginExampleDI/app/src/main/res/drawable/custom_input.xml" value="0.182" />
         <entry key="..\:/Users/Emmanuel/AndroidStudioProjects/LoginExampleDI/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Emmanuel/AndroidStudioProjects/LoginExampleDI/app/src/main/res/drawable/rounded_corner.xml" value="0.182" />
+        <entry key="..\:/Users/Emmanuel/AndroidStudioProjects/LoginExampleDI/app/src/main/res/drawable/show_password_selector.xml" value="0.182" />
         <entry key="..\:/Users/Emmanuel/AndroidStudioProjects/LoginExampleDI/app/src/main/res/layout/activity_login_pantalla2.xml" value="0.19427083333333334" />
         <entry key="..\:/Users/Emmanuel/AndroidStudioProjects/LoginExampleDI/app/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
-        <entry key="..\:/Users/Emmanuel/AndroidStudioProjects/LoginExampleDI/app/src/main/res/layout/activity_register_pantalla.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Emmanuel/AndroidStudioProjects/LoginExampleDI/app/src/main/res/layout/activity_register_pantalla.xml" value="0.22" />
       </map>
     </option>
   </component>
